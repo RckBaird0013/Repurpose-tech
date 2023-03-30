@@ -24,4 +24,4 @@ This image required me taking and creating the image myself as all the rest of t
 
 ![alt text](https://github.com/RckBaird0013/Repurpose-tech/blob/main/BATOCERA.jpeg)
 
-My kids lhate how much they playing an unresponsive version of Donkey Kong v. Mario.
+My kids hate how much they playing an unresponsive version of Donkey Kong v. Mario.

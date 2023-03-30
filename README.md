@@ -18,5 +18,5 @@ This image required me taking and creating the image myself as all the rest of t
 
 # Just For Fun Batocera Emulator
 
-[alt text](https://github.com/RckBaird0013/Repurpose-tech/blob/main/BATOCERA.jpeg)
+![alt text](https://github.com/RckBaird0013/Repurpose-tech/blob/main/BATOCERA.jpeg)
 
